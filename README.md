@@ -1,5 +1,5 @@
 # Optimising plant fibre degradation in synthetic rumen communities
-This repository contains notebooks (accompanied by an HTML version) and data files used to produce all figures in Individuality and Selection of Microbial Communities, Chapter 4. 
+This repository contains Jupyter notebooks (accompanied by an HTML version) and data files used to produce all figures in Individuality and Selection of Microbial Communities, Chapter 4. All code is written in Julia Language.
 
 ### Data
 
